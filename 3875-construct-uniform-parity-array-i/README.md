@@ -58,5 +58,5 @@ Constraints:
 
 **Difficulty:** Easy  
 **Runtime:** 0 ms  
-**Memory:** 45 MB  
+**Memory:** 45.4 MB  
 **Link:** [LeetCode](https://leetcode.com/problems/construct-uniform-parity-array-i/)

@@ -1,7 +1,7 @@
 // Longest Substring Without Repeating Characters
 // Difficulty: Medium
-// Runtime: 67 ms
-// Memory: 47.8 MB
+// Runtime: 60 ms
+// Memory: 48 MB
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 class Solution {

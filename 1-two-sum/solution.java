@@ -1,7 +1,7 @@
 // Two Sum
 // Difficulty: Easy
-// Runtime: 2 ms
-// Memory: 46.9 MB
+// Runtime: 3 ms
+// Memory: 47.2 MB
 // https://leetcode.com/problems/two-sum/
 
 import java.util.HashMap;

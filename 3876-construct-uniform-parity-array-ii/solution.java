@@ -1,7 +1,7 @@
 // Construct Uniform Parity Array II
 // Difficulty: Medium
-// Runtime: 3 ms
-// Memory: 121.5 MB
+// Runtime: 4 ms
+// Memory: 121.7 MB
 // https://leetcode.com/problems/construct-uniform-parity-array-ii/
 
         }

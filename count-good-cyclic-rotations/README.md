@@ -53,5 +53,5 @@ Constraints:
 
 **Difficulty:** Medium  
 **Runtime:** 3 ms  
-**Memory:** 71.6 MB  
+**Memory:** 71.3 MB  
 **Link:** [LeetCode](https://leetcode.com/problems/count-good-cyclic-rotations/)

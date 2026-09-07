@@ -62,5 +62,5 @@ Constraints:
 
 **Difficulty:** Easy  
 **Runtime:** 1 ms  
-**Memory:** 43.7 MB  
+**Memory:** 43.9 MB  
 **Link:** [LeetCode](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/)
